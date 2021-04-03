@@ -1,5 +1,5 @@
 # tower-ts
-A functional typescript framework, 
+A functional typescript framework inspired by NestJS
 
 ## goals
 + Strictly type checked
